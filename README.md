@@ -1,4 +1,4 @@
-**+=========================================================================================+**
+**+========================================================================+**
 
 **English:**
 
@@ -18,7 +18,7 @@ after that, the structural element is shifted one cell forward. At the end of th
 
 There are two files in the repository - main and algorithm. The program itself is located in the main file, in algorithm - the basic algorithm showing the essence of the work.
 
-**+=========================================================================================+**
+**+========================================================================+**
 
 **Russian:**
 
@@ -38,4 +38,4 @@ There are two files in the repository - main and algorithm. The program itself i
 
 В репозитории находится два файла - main и algorythm. Сама программа находится в файле main, в algorythm - базовый алгоритм, показывающий суть работы.
 
-**+=========================================================================================+**
+**+========================================================================+**
