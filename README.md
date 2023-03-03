@@ -17,6 +17,7 @@ after that, the structural element is shifted one cell forward. At the end of th
 There are two files in the repository - main and algorithm. The program itself is located in the main file, in algorithm - the basic algorithm showing the essence of the work.
 
 
+
 **Russian:**
 
 **Простой учебный алгоритм поиска.** Осуществляет поиск отверстия на заданном пользователем поле. 
