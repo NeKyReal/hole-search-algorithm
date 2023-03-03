@@ -7,7 +7,7 @@ From the mandatory conditions of its operation, the two holes must be separated 
 
 The principle of the algorithm is simple - a structural element, 2 by 2 cells in size, walks through the field and counts the number of occupied cells, that is, the number of holes per structural element. Initially there are two null variables - **i** and **j**. When the algorithm is running, a simple condition is met:
 
-+ if **number of holes ** = 1, then i = i + 1
++ if **number of holes** = 1, then i = i + 1
 + if **number of holes** = 3, then j = j + 1, 
 
 after that, the structural element is shifted one cell forward. At the end of the algorithm, the obtained values are entered into the formula: 
