@@ -1,6 +1,4 @@
-**+========================================================================+**
-
-**English:**
+## **English:**
 
 **Simple educational search algorithm.** Searches for a hole in a user-defined field. 
 From the mandatory conditions of its operation, the two holes must be separated from each other. There can be no holes on the edges (this vulnerability can be circumvented by creating a virtual wall near it, which the algorithm does), and the holes themselves can be of different shapes and sizes. The size of the structural element is 2X2.
@@ -16,11 +14,11 @@ after that, the structural element is shifted one cell forward. At the end of th
 + N - number of holes, 
 + i and j are the number of fragments of holes found by the structural element.
 
-There are two files in the repository - main and algorithm. The program itself is located in the main file, in algorithm - the basic algorithm showing the essence of the work.
+There are two files in the repository - `main` and `algorithm`. The program itself is located in the `main` file, in `algorithm` - the basic algorithm showing the essence of the work.
 
-**+========================================================================+**
+---
 
-**Russian:**
+## **Russian:**
 
 **Простой учебный алгоритм поиска.** Осуществляет поиск отверстия на заданном пользователем поле. 
 Из обязательных условий его работы, два отверстия должны быть разделены между собой. На края не может быть отверстия (данную уязвимость можно обойти, если создать возле нее виртуальную стену, что алгоритм и делает), а сами отверстия могут быть разной формы и размеров. Размер структурного элемента - 2Х2.
@@ -36,6 +34,4 @@ There are two files in the repository - main and algorithm. The program itself i
 + N - количество отверстий, 
 + i и j - число найденных фрагментов отверстий структурным элементом.
 
-В репозитории находится два файла - main и algorythm. Сама программа находится в файле main, в algorythm - базовый алгоритм, показывающий суть работы.
-
-**+========================================================================+**
+В репозитории находится два файла - `main` и `algorythm`. Сама программа находится в файле `main`, в `algorythm` - базовый алгоритм, показывающий суть работы.
